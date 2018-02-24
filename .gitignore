@@ -38,3 +38,4 @@ build/
 
 # system ignore
 Thumbs.db
+*.stackdump
